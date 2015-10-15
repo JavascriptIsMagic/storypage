@@ -1,0 +1,38 @@
+{
+  "name": "storypage",
+  "version": "0.0.0",
+  "description": "Interactive Storytelling Platform enhanced by rich media support",
+  "main": "server.js",
+  "dependencies": {
+    "passport": "^0.3.0",
+    "portal": "*"
+  },
+  "devDependencies": {
+    "portal-semantic-react": "*"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/javascriptismagic/storypage.git"
+  },
+  "keywords": [
+    "semantic",
+    "story",
+    "storytelling",
+    "writing",
+    "portal",
+    "react",
+    "coffee",
+    "script",
+    "coffeescript",
+    "cjsx"
+  ],
+  "author": "Brian <javascriptismagic@gmail.com>",
+  "license": "Unlicense",
+  "bugs": {
+    "url": "https://github.com/javascriptismagic/storypage/issues"
+  },
+  "homepage": "https://github.com/javascriptismagic/storypage#readme"
+}
