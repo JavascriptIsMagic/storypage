@@ -1,5 +1,2 @@
-Aui = require 'aui'
-
-React.render <div>
-  Hello Storypage!
-</div>, document.body
+require './lib/mergeClassNames.cjsx'
+React.render <div>Hello World!</div>, document.querySelector 'div.body'

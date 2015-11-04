@@ -1,2 +1,2 @@
 require('coffee-script/register')
-module.exports = require('./lib/storypage.server.coffee')
+module.exports = require('./lib/server.coffee')
